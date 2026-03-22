@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://phoenixroofteam.com/sitemap.xml
